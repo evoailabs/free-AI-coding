@@ -25,6 +25,7 @@ There are many AI coding agents and tools available (free and commercial):
 - [zoer.ai](https://zoer.ai/)
 - [kiro](https://kiro.dev/)
 - [ampcode](https://ampcode.com/manual)
+- [copilot-cli](https://github.com/github/copilot-cli)
 - ...
   
 But you can do AI coding absolutely free, without any IDEs, editors, or agents. You just need access to the latest, most capable models via the web or an API.
