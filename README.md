@@ -11,6 +11,7 @@ There are many AI coding agents and tools available (free and commercial):
 - [kilocode](https://github.com/Kilo-Org/kilocode)
 - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 - [Cline](https://github.com/cline/cline)
+- [cline-cli](https://docs.cline.bot/cline-cli/overview)
 - [Cursor](https://cursor.com/)
 - [cursor-agent](https://cursor.com/cli)
 - [Windsurf](https://windsurf.com/)
