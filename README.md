@@ -29,6 +29,7 @@ There are many AI coding agents and tools available (free and commercial):
 - [copilot-cli](https://github.com/github/copilot-cli)
 - [droid](https://factory.ai/news/terminal-bench)
 - [serena](https://github.com/oraios/serena)
+- [kratos](https://github.com/taham655/kratos)
 - ...
   
 But you can do AI coding absolutely free, without any IDEs, editors, or agents. You just need access to the latest, most capable models via the web or an API.
